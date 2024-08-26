@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Inria+Serif:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inria+Serif:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+:root {
+    --color-one: #103178;
+    --color-two: #FFC800;
+    --color-three: #5B6C8F;
+    --color-four: #7b93c3;
+    --color-text: #10318D;
+    --font: "Inria Serif", serif;
+    --font-two: "Poppins", sans-serif;
+}
+
+body {
+    font-family: var(--font-two);
+    /* color: var(--color-one) */
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
