@@ -57,3 +57,6 @@ $(document).ready(function() {
     });
 });
 //backtop
+function showMessage() {
+    alert("Product added to cart successfully!");
+}
